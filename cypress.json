@@ -1,0 +1,15 @@
+{
+  "projectId": "asdas",
+  "chromeWebSecurity": false,
+
+  "env": {
+    "URL": "https://reqres.in/"
+  },
+
+  "reporter": "mochawesome",
+  "reporterOptions": {
+  "overwrite": false,
+  "html": false,
+  "json": true
+ }
+}
